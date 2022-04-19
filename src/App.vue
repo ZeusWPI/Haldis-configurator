@@ -1,7 +1,9 @@
 <template>
-  <p>Haldis menu configurator</p>
+  <Home />
 </template>
 
-<script setup></script>
+<script setup>
+  import Home from "./pages/home.vue";
+</script>
 
 <style></style>
